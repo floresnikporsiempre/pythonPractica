@@ -1,2 +1,2 @@
 print("ELECTRONICA")
-print ("INGENIERIA")
+print("INGENIERO")
